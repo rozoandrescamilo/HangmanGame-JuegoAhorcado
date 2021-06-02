@@ -1,5 +1,5 @@
 # HangmanGame-JuegoAhorcado
-Juego del Ahorcado utilizando código ACSII para interfaces, sistema de vidas y jugabilidad basada en curso Python en Platzi.
+Juego del Ahorcado utilizando código ASCII para interfaces, sistema de vidas y jugabilidad basada en curso Python en Platzi.
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠤⠲⠦⠉⠉⠉⠏⠉⠒⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
